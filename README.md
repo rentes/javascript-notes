@@ -1,4 +1,4 @@
-# JavaScript notes
+# JavaScript Notes
 ## Object Creation
 
 ```JavaScript
