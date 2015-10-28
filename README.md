@@ -9,3 +9,17 @@ var car = {
 	used: false
 };
 ```
+
+We can also instantiate an object through a constructor function:
+
+```JavaScript
+function Car(brand, model, used) {
+	this.brand = brand;
+	this.model = model;
+	this.used = used;
+};
+
+// Notice the "new" keyword to create object instances
+var car = new Car("Volvo", "XC 90", false);
+
+```
