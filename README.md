@@ -2,5 +2,10 @@
 ## Object Creation
 
 ```JavaScript
-var x = new String(); // just a test String Object
+// The most important data type in JavaScript: the object
+var car = {
+	brand: "Volvo",  // Properties listing
+	model: "XC 90",
+	used: false
+};
 ```
