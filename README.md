@@ -1,4 +1,11 @@
 # JavaScript Notes
+
+Welcome to JavaScript Notes: a simple page with notes on the fundamentals
+of the JavaScript language.
+
+### Table of Contents
+**[Object Creation](#object-creation)**
+
 ## Object Creation
 
 ```JavaScript
