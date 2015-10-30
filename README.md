@@ -8,8 +8,9 @@ of the JavaScript language.
 
 ## Object Creation
 
+The most important data type in JavaScript: the object.
+
 ```JavaScript
-// The most important data type in JavaScript: the object
 var car = {
 	brand: "Volvo",  // Properties listing
 	model: "XC 90",
