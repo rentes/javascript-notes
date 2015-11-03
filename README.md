@@ -28,6 +28,6 @@ function Car(brand, model, used) {
 };
 
 // Notice the "new" keyword to create object instances
-var car = new Car("Volvo", "XC 90", false);
+var another_car = new Car("Volvo", "XC 90", false);
 
 ```
