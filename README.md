@@ -1,4 +1,4 @@
-<a name="README">[<img src="https://github.com/rentes/javascript-notes/img/JS.png" width="200px" height="200px" />](https://github.com/rentes/javascript-notes)</a>
+<a name="README">[<img src="https://github.com/rentes/javascript-notes/tree/master/img/JS.png" width="200px" height="200px" />](https://github.com/rentes/javascript-notes)</a>
 
 # JavaScript Notes
 
