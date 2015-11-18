@@ -6,9 +6,9 @@ Welcome to JavaScript Notes: a simple page with notes on the fundamentals
 of the JavaScript language. Code straight-to-the-point.
 
 ### Table of Contents
-**[Object Creation](#object-creation)**
+**[1. Object Creation](#object-creation)**
 
-## Object Creation
+## 1. Object Creation
 
 The most important data type in JavaScript: the object.
 
