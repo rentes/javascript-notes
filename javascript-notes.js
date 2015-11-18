@@ -1,9 +1,8 @@
-//
 // JavaScript Notes code
 // Created by Miguel Rentes on 2015-11-03.
 // This code is free under the MIT license
 
-// Chapter 1. Object Creation
+// 1. Object Creation
 
 var car = {
     brand: "Volvo",  // Properties listing
