@@ -1,7 +1,9 @@
+<a name="README">[<img src="https://github.com/rentes/javascript-notes/img/JS.png" width="200px" height="200px" />](https://github.com/rentes/javascript-notes)</a>
+
 # JavaScript Notes
 
 Welcome to JavaScript Notes: a simple page with notes on the fundamentals
-of the JavaScript language.
+of the JavaScript language. Code straight-to-the-point.
 
 ### Table of Contents
 **[Object Creation](#object-creation)**
