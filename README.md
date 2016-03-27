@@ -1,17 +1,20 @@
+<a name="README">[<img src="img/JS.png" width="200px" height="200px" />](https://github.com/rentes/javascript-notes)</a>
+
 # JavaScript Notes
 
 Welcome to JavaScript Notes: a simple page with notes on the fundamentals
-of the JavaScript programming language.
+of the JavaScript programming language. Code straight-to-the-point.
 
 ### Table of Contents
-**[Object Creation](#object-creation)**
+**[1. Object Creation](#object-creation)**
 
-## Object Creation
+## 1. Object Creation
+
+The most important data type in JavaScript: the object.
 
 To instantiate an object create a variable and describe its properties:
 
 ```JavaScript
-// The most important data type in JavaScript: the object
 var car = {
 	brand: "Volvo",  // Properties listing
 	model: "XC 90",
@@ -29,6 +32,6 @@ function Car(brand, model, used) {
 };
 
 // Notice the "new" keyword to create object instances
-var car = new Car("Volvo", "XC 90", false);
+var another_car = new Car("Volvo", "XC 90", false);
 
 ```
