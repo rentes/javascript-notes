@@ -1,12 +1,14 @@
 # JavaScript Notes
 
 Welcome to JavaScript Notes: a simple page with notes on the fundamentals
-of the JavaScript language.
+of the JavaScript programming language.
 
 ### Table of Contents
 **[Object Creation](#object-creation)**
 
 ## Object Creation
+
+To instantiate an object create a variable and describe its properties:
 
 ```JavaScript
 // The most important data type in JavaScript: the object
