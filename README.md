@@ -6,11 +6,11 @@ Welcome to JavaScript Notes: a simple page with notes on the fundamentals
 of the JavaScript programming language. Code straight-to-the-point.
 
 ### Table of Contents
-**1. [Object Creation](#object-creation)**
-**2. [Scope](#scope)**
+**1. [Object Creation](#object-creation)**<br/>
+**2. [Scope](#scope)**<br/>
 ***2.1. [Global Scope](#global-scope)***
 
-## 1. Object Creation
+## 1. Object Creation<a name="object-creation"></a>
 
 The most important data type in JavaScript: the object.
 
@@ -37,11 +37,11 @@ function Car(brand, model, used) {
 var another_car = new Car("Volvo", "XC 90", false);
 ```
 
-## 2. Scope
+## 2. Scope<a name="scope"></a>
 
 Scope is the visibility of variables.
 
-### 2.1. Global Scope
+### 2.1. Global Scope<a name="global-scope"></a>
 
 ```JavaScript
 var globalVariable = 1;
