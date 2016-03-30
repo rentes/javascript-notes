@@ -6,11 +6,9 @@ Welcome to JavaScript Notes: a simple page with notes on the fundamentals
 of the JavaScript programming language. Code straight-to-the-point.
 
 ### Table of Contents
-**[1. Object Creation](#object-creation)**
-
-**[2. Scope](#scope)**
-
-***[2.1. Global Scope](#global-scope)***
+**1. [Object Creation](#object-creation)**
+**2. [Scope](#scope)**
+***2.1. [Global Scope](#global-scope)***
 
 ## 1. Object Creation
 
