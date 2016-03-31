@@ -9,6 +9,7 @@ of the JavaScript programming language. Code straight-to-the-point.
 **1. [Object Creation](#object-creation)**<br/>
 **2. [Scope](#scope)**<br/>
 **2.1. [Global Scope](#global-scope)**
+**2.2. [Local Scope](#local-scope)**
 
 ## 1. Object Creation<a name="object-creation"></a>
 
@@ -49,5 +50,22 @@ var globalVariable = 1;
 function f() {
 	// we can access globalVariable in this function's scope
 	console.log(globalVariable);
+}
+```
+
+### 2.2. Local Scope<a name="local-scope"></a>
+
+```JavaScript
+var variable = 1;
+
+function f() {
+	// we can access the global variable in this function's scope
+	console.log(variable);
+}
+
+function g() {
+	// local variable (a new one different from the global one)
+	var variable = 2;
+	console.log(variable);
 }
 ```
