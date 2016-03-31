@@ -8,7 +8,7 @@ of the JavaScript programming language. Code straight-to-the-point.
 ### Table of Contents
 **1. [Object Creation](#object-creation)**<br/>
 **2. [Scope](#scope)**<br/>
-**2.1. [Global Scope](#global-scope)**
+**2.1. [Global Scope](#global-scope)**<br/>
 **2.2. [Local Scope](#local-scope)**
 
 ## 1. Object Creation<a name="object-creation"></a>
