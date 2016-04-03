@@ -52,6 +52,8 @@ function f() {
 	// we can access globalVariable in this function's scope
 	console.log(globalVariable);
 };
+
+f();
 ```
 
 ### 2.2. Local Scope<a name="local-scope"></a>
@@ -59,16 +61,19 @@ function f() {
 ```JavaScript
 var variable = 1;
 
-function f() {
+function g() {
 	// we can access the global variable in this function's scope
 	console.log(variable);
 };
 
-function g() {
+function h() {
 	// local variable (a new one different from the global one)
 	var variable = 2;
 	console.log(variable);
 };
+
+g();
+h();
 ```
 
 ### 2.3. Function Scope<a name="function-scope"></a>
@@ -76,9 +81,11 @@ function g() {
 ```JavaScript
 var variable = 1;
 
-function f() {
+function i() {
 	// local variable (a new one different from the global one)
 	var variable = 2;
 	console.log(variable);
 };
+
+i();
 ```
